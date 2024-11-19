@@ -52,7 +52,7 @@ require "./invidious/routes/**"
 require "./invidious/jobs/**"
 
 # Declare the base namespace for invidious
-module VuView
+module Invidious
 end
 
 # Simple alias to make code easier to read
